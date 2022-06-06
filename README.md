@@ -1,7 +1,7 @@
 # activitypub-server-tutorial-with-django
 Activitypub server tutorial demo with Django in Python
 
-modified from https://github.com/timmot/activity-pub-tutorial, and read it
+modified from https://github.com/timmot/activity-pub-tutorial, and please read it
 to know how it works similarly.
 
 (C) 2022 Timothy and Yoxem, under MIT License.
